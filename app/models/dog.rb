@@ -7,8 +7,6 @@ class Dog
     @breed = breed 
     @age = age 
     DOGS << self
-    
-    
   end
 
 end
